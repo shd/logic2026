@@ -1,4 +1,4 @@
-Курс математической логики, КТ, осень 2025
+Курс математической логики, КТ, осень 2026
 ==========================
 ## Материалы
 + [Конспект 2018 года](https://github.com/shd/logic2018/blob/master/conspect.pdf)
@@ -43,7 +43,6 @@ https://www.mccme.ru/free-books/shen/shen-logic-part2-2.pdf
 + Конспекты 2011 и 2018 года по логике.
 + О. Я. Виро, О. А. Иванов, Н. Ю. Нецветаев, В. М. Харламов. Элементарная топология. --- М.: Издательство МЦНМО, 2010
 + В.Е.Плиско, В.Х.Хаханян, Интуиционистская логика, Мех-Мат МГУ 2009
-http://logic.math.msu.ru/wp-content/uploads/plisko/intlog.pdf
 + Morten Heine B. Sørensen, Pawel Urzyczyn: Lectures on the Curry-Howard Isomorphism
 https://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf
 
