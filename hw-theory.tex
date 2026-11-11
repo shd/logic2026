@@ -812,4 +812,21 @@ $\vdash\neg\varphi(\overline{x_1},\dots,\overline{x_n},\overline{y})$ при $f(
 на лекции выводы в формальной арифметике).
 \end{enumerate}
 
+
+\section*{Задание №9. Теоремы Гёделя о неполноте арифметики. Теория множеств.}
+
+\begin{enumerate}
+\item Покажите, что омега-непротиворечивая теория непротиворечива.
+\item Предложите омега-противоречивую, но непротиворечивую теорию (точнее, например, теорию не более противоречивую,
+чем формальная арифметика). Омега-противоречивость, видимо, проще всего продемострировать при помощи построения соответствующих моделей.
+\item Покажите, что функция $\textsc{SUBST}(p,q)$, заменяющая в формуле с гёделевым номером $p$
+все свободные переменные $x_1$ на формулу $q$, рекурсивная.
+\item Пусть $\zeta_\varphi(x) := \forall z.\sigma (x,x,z) \rightarrow \varphi(z)$,
+где формула $\sigma(p,q,r)$ представляет функцию $\textsc{SUBST}(p,q)$, заменяющую в формуле с гёделевым номером $p$
+все свободные переменные $x_1$ на формулу $q$. Тогда покажите, что формула $\alpha_\varphi := \zeta_\varphi(\overline{\ulcorner\zeta_\varphi\urcorner})$
+обладает следующим свойством: $\vdash \varphi(\overline{\ulcorner\alpha_\varphi\urcorner}) \leftrightarrow \alpha_\varphi$.
+
+Напомним, $\varphi\leftrightarrow\psi := (\varphi\rightarrow\psi)\with(\psi\rightarrow\varphi)$.
+\end{enumerate}
+
 \end{document}
